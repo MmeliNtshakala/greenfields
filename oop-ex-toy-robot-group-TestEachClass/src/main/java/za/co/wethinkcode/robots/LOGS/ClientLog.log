@@ -1,0 +1,672 @@
+
+Apr 29, 2025 3:52:59 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+Apr 29, 2025 3:53:02 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: ISSUE : SERVER HAS DISCONNECTED.
+
+Apr 29, 2025 3:53:53 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS ENTERED THE WORLD!
+
+Apr 29, 2025 3:53:57 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+SEVERE:  sbu: Unsupported command: khjffggh
+
+Apr 29, 2025 3:55:31 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: ISSUE : SERVER HAS DISCONNECTED.
+
+Apr 29, 2025 4:17:05 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+Apr 29, 2025 4:18:53 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: ISSUE : SERVER HAS DISCONNECTED.
+
+Apr 29, 2025 4:19:08 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+Apr 29, 2025 4:21:25 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: ISSUE : SERVER HAS DISCONNECTED.
+
+Apr 29, 2025 4:21:40 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+Apr 29, 2025 4:21:42 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+ERROR:  mxo: Unsupported command: kljghfd
+
+Apr 29, 2025 4:23:19 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: ISSUE : SERVER HAS DISCONNECTED.
+
+Apr 29, 2025 6:53:02 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+Apr 29, 2025 6:53:12 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: ISSUE : SERVER HAS DISCONNECTED.
+
+Apr 29, 2025 6:57:06 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+Apr 29, 2025 6:57:09 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+Apr 29, 2025 7:12:25 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+Apr 29, 2025 7:12:27 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+UNKNOWN_COMMAND: mxo-> Unsupported command: jhgfd
+
+Apr 29, 2025 7:14:23 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 01, 2025 12:01:32 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 01, 2025 12:02:29 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 01, 2025 12:30:35 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 01, 2025 12:30:51 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS ENTERED THE WORLD!
+
+May 01, 2025 12:31:30 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 01, 2025 12:37:06 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 01, 2025 12:37:09 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS ENTERED THE WORLD!
+
+May 01, 2025 12:37:17 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+UNKNOWN_COMMAND: mxo -> No enum constant za.co.wethinkcode.robots.robot.RobotProperties.MXO
+
+May 01, 2025 12:37:38 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+UNKNOWN_COMMAND: mxo -> No enum constant za.co.wethinkcode.robots.robot.RobotProperties.MXO
+
+May 01, 2025 12:39:18 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+UNKNOWN_COMMAND: sbu -> No enum constant za.co.wethinkcode.robots.robot.RobotProperties.SBU
+
+May 01, 2025 12:39:25 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+UNKNOWN_COMMAND: mxo -> No enum constant za.co.wethinkcode.robots.robot.RobotProperties.MXO
+
+May 01, 2025 12:40:02 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 01, 2025 12:40:46 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 01, 2025 12:40:49 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS ENTERED THE WORLD!
+
+May 01, 2025 12:41:05 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+UNKNOWN_COMMAND: sbu -> No enum constant za.co.wethinkcode.robots.robot.RobotProperties.BIG
+
+May 01, 2025 12:41:10 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 01, 2025 12:41:37 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS LEFT THE WORLD!
+
+May 01, 2025 1:49:35 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 01, 2025 1:53:55 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 01, 2025 1:54:22 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 01, 2025 1:54:26 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS ENTERED THE WORLD!
+
+May 01, 2025 1:55:24 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 01, 2025 1:55:32 PM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+<<<<<<< HEAD
+May 06, 2025 9:28:03 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 9:28:17 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS ENTERED THE WORLD!
+
+May 06, 2025 9:29:54 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 9:30:06 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS ENTERED THE WORLD!
+
+May 06, 2025 9:34:53 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 9:36:16 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 06, 2025 9:36:33 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 9:48:50 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 06, 2025 9:49:08 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 9:49:12 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 06, 2025 9:49:48 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 9:49:51 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 06, 2025 9:50:47 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 9:50:49 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 06, 2025 9:52:04 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 9:52:07 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 06, 2025 9:52:10 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+UNKNOWN_COMMAND: mxo -> Unsupported command:hey
+
+May 06, 2025 9:52:48 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:08:55 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 10:09:46 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 10:09:50 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:09:50 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:10:18 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 10:10:32 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS ENTERED THE WORLD!
+
+May 06, 2025 10:10:38 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:10:38 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS LEFT THE WORLD!
+
+May 06, 2025 10:10:38 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:10:38 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS LEFT THE WORLD!
+
+May 06, 2025 10:15:35 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 10:15:39 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:15:39 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:23:40 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 10:23:56 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS ENTERED THE WORLD!
+
+May 06, 2025 10:24:15 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS LEFT THE WORLD!
+
+May 06, 2025 10:25:10 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:25:28 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 10:25:43 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS ENTERED THE WORLD!
+
+May 06, 2025 10:28:01 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:28:01 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:28:01 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS LEFT THE WORLD!
+
+May 06, 2025 10:28:01 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS LEFT THE WORLD!
+
+May 06, 2025 10:30:02 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 10:30:20 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS ENTERED THE WORLD!
+
+May 06, 2025 10:30:41 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:30:41 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS LEFT THE WORLD!
+
+May 06, 2025 10:30:41 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:31:02 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 10:31:20 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS ENTERED THE WORLD!
+
+May 06, 2025 10:31:33 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:31:33 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS LEFT THE WORLD!
+
+May 06, 2025 10:32:17 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 06, 2025 10:32:31 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS ENTERED THE WORLD!
+
+May 06, 2025 10:38:24 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 06, 2025 10:38:24 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS LEFT THE WORLD!
+
+May 06, 2025 10:38:24 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: []} HAS LEFT THE WORLD!
+
+May 07, 2025 9:23:35 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 07, 2025 9:23:46 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS ENTERED THE WORLD!
+
+May 07, 2025 9:27:15 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 07, 2025 9:27:16 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS LEFT THE WORLD!
+
+May 07, 2025 9:30:18 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 07, 2025 9:30:22 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 07, 2025 9:30:46 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 07, 2025 9:30:51 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 07, 2025 9:35:23 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+=======
+May 07, 2025 9:30:50 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: Ayanda HAS ENTERED THE WORLD!
+
+May 07, 2025 9:33:33 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: Aya HAS ENTERED THE WORLD!
+
+May 07, 2025 9:35:25 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: Aya HAS ENTERED THE WORLD!
+
+May 07, 2025 9:35:31 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+UNKNOWN_COMMAND: Aya -> Invalid step count for 'backward' command: 
+
+May 07, 2025 9:36:51 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+UNKNOWN_COMMAND: Aya -> Unsupported command:turnright
+
+May 07, 2025 9:40:52 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: Aya HAS ENTERED THE WORLD!
+
+May 07, 2025 9:42:56 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+UNKNOWN_COMMAND: Aya -> Unsupported command:turnright
+
+May 07, 2025 9:50:00 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: Aya HAS LEFT THE WORLD!
+
+May 07, 2025 9:50:35 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: Aya HAS ENTERED THE WORLD!
+
+May 07, 2025 10:09:22 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: aya HAS ENTERED THE WORLD!
+
+May 07, 2025 10:09:35 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: frank HAS ENTERED THE WORLD!
+
+May 07, 2025 10:09:45 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 07, 2025 10:21:20 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 07, 2025 10:23:41 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+ISSUE:  SERVER HAS DISCONNECTED.
+
+May 07, 2025 10:24:07 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: Ayanda HAS ENTERED THE WORLD!
+>>>>>>> 5e7ca3197eb95bd431c9750ecdb4185bf6f37f03
+
+May 08, 2025 9:25:33 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:25:50 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:27:56 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:27:59 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:30:03 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:30:23 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:32:01 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:32:01 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:32:01 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:32:01 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:32:37 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:32:52 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:33:52 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:33:52 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:33:52 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:34:10 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:34:27 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:36:03 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:36:03 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:36:03 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:36:03 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:36:25 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:37:02 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:37:46 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:37:46 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:37:46 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:37:46 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:39:13 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:39:36 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:45:20 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:45:20 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:45:20 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:45:20 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:47:47 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:48:02 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:52:23 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:52:23 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:52:23 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:52:23 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:54:21 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:55:09 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 9:55:51 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 9:56:02 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:04:39 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:04:39 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:04:55 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:05:09 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:05:55 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:05:59 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:08:44 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:09:46 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+UNKNOWN_COMMAND: mxo -> Unsupported command:turnright
+
+May 08, 2025 10:10:33 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:11:28 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:11:31 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:11:31 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:30:47 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:31:10 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:31:10 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:31:38 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:31:51 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:32:41 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:32:47 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:36:05 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:36:28 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:37:39 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:37:42 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:37:53 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:38:06 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:38:20 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:38:20 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:45:04 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:49:27 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:49:27 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:49:27 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:49:27 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:49:27 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 10:49:46 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 10:50:02 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: {"robot":"mxo","command":"mxo","arguments":[]} HAS ENTERED THE WORLD!
+
+May 08, 2025 11:00:05 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 11:00:05 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: {"robot":"mxo","command":"mxo","arguments":[]} HAS LEFT THE WORLD!
+
+May 08, 2025 11:00:05 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: {"robot":"mxo","command":"mxo","arguments":[]} HAS LEFT THE WORLD!
+
+May 08, 2025 11:00:05 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 11:00:29 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 11:00:49 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS ENTERED THE WORLD!
+
+May 08, 2025 11:00:55 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 11:00:55 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS LEFT THE WORLD!
+
+May 08, 2025 11:00:55 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS LEFT THE WORLD!
+
+May 08, 2025 11:00:55 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 11:03:29 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 11:03:32 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 11:06:52 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: nxo HAS ENTERED THE WORLD!
+
+May 08, 2025 11:06:56 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: nxo HAS LEFT THE WORLD!
+
+May 08, 2025 11:09:01 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 11:09:08 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS ENTERED THE WORLD!
+
+May 08, 2025 11:09:12 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 11:09:27 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 11:09:33 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 11:09:33 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS LEFT THE WORLD!
+
+May 08, 2025 11:09:33 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
+May 08, 2025 11:09:33 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: sbu HAS LEFT THE WORLD!
+
+May 08, 2025 11:17:40 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS ENTERED THE WORLD!
+
+May 08, 2025 11:17:40 AM za.co.wethinkcode.robots.utilities.LOG addToLog
+INFO: mxo HAS LEFT THE WORLD!
+
